@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/graficdoctor/fe-19-testimonials-grid-section-main)
+- Live Site URL: [Vercel](https://fe-19-testimonials-grid-section-main.vercel.app/)
 
 ## My process
 
